@@ -55,3 +55,6 @@
 *.o
 /libjson-c.la
 /libjson.la
+
+# Xcode
+Xcode/libjson-c.xcodeproj/project.xcworkspace/xcuserdata/*
