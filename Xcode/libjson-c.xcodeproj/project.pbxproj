@@ -39,7 +39,7 @@
 
 /* Begin PBXFileReference section */
 		1A9F29A41B88068300FC02CF /* JSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A9F29A91B88068300FC02CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = ../Info.plist; sourceTree = "<group>"; };
+		1A9F29A91B88068300FC02CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		1A9F29E41B880ABC00FC02CF /* arraylist.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = arraylist.c; sourceTree = "<group>"; };
 		1A9F29E51B880ABC00FC02CF /* arraylist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = arraylist.h; sourceTree = "<group>"; };
 		1A9F29E61B880ABC00FC02CF /* bits.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bits.h; sourceTree = "<group>"; };
@@ -84,6 +84,7 @@
 		1A9F299A1B88068300FC02CF = {
 			isa = PBXGroup;
 			children = (
+				1A9F29AF1B88070900FC02CF /* Source */,
 				1A9F29A61B88068300FC02CF /* libjson-c */,
 				1A9F29A51B88068300FC02CF /* Products */,
 			);
@@ -100,7 +101,6 @@
 		1A9F29A61B88068300FC02CF /* libjson-c */ = {
 			isa = PBXGroup;
 			children = (
-				1A9F29AF1B88070900FC02CF /* Source */,
 				1A9F29A91B88068300FC02CF /* Info.plist */,
 			);
 			path = "libjson-c";
@@ -139,7 +139,7 @@
 				1A9F29FD1B880ABC00FC02CF /* random_seed.h */,
 			);
 			name = Source;
-			path = ../..;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
