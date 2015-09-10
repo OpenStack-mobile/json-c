@@ -94,7 +94,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1A9F29A41B88068300FC02CF /* .framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = .framework; path = JSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A9F29A41B88068300FC02CF /* JSON.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JSON.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A9F29A91B88068300FC02CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		1A9F29E41B880ABC00FC02CF /* arraylist.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = arraylist.c; sourceTree = "<group>"; };
 		1A9F29E51B880ABC00FC02CF /* arraylist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = arraylist.h; sourceTree = "<group>"; };
@@ -165,7 +165,7 @@
 		1A9F29A51B88068300FC02CF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1A9F29A41B88068300FC02CF /* .framework */,
+				1A9F29A41B88068300FC02CF /* JSON.framework */,
 				1AE78DE01B96689B00CDEF17 /* JSON.framework */,
 				1AE78E061B96689D00CDEF17 /* JSON.framework */,
 			);
@@ -309,7 +309,7 @@
 			);
 			name = "libjson-c OS X";
 			productName = "libjson-c";
-			productReference = 1A9F29A41B88068300FC02CF /* .framework */;
+			productReference = 1A9F29A41B88068300FC02CF /* JSON.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		1AE78DBC1B96689B00CDEF17 /* libjson-c iOS */ = {
