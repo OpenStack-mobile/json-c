@@ -22,6 +22,7 @@
 #endif
 
 //#include "json_inttypes.h"
+#include <stdint.h>
 
 #ifdef __cplusplus
 extern "C" {
