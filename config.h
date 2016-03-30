@@ -129,7 +129,7 @@
 #define HAVE_VSYSLOG 1
 
 /* Public define for json_inttypes.h */
-#define JSON_C_HAVE_INTTYPES_H 1
+#define JSON_C_HAVE_INTTYPES_H 0
 
 /* Define to the sub-directory where libtool stores uninstalled libraries. */
 #define LT_OBJDIR ".libs/"
